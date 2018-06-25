@@ -10,6 +10,8 @@ def index():
 
 	print('manager')
 
+	print('dev')
+
     return 'index1234'
 
 if __name__ == '__main__':
